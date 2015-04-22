@@ -1310,6 +1310,7 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020034;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020035;
         public static final int abc_textfield_search_material=0x7f020036;
+        public static final int velikilogoahmedija=0x7f020037;
     }
     public static final class id {
         public static final int action_bar=0x7f090031;
@@ -1325,10 +1326,13 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_settings=0x7f09003f;
+        public static final int action_settings=0x7f09004b;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int always=0x7f090016;
         public static final int beginning=0x7f090013;
+        public static final int btnNext=0x7f090040;
+        public static final int btnPrev=0x7f090041;
+        public static final int button3=0x7f090046;
         public static final int checkbox=0x7f090029;
         public static final int collapseActionView=0x7f090017;
         public static final int decor_content_parent=0x7f09002f;
@@ -1345,6 +1349,8 @@ containing a value of this type.
         public static final int icon=0x7f090026;
         public static final int ifRoom=0x7f090018;
         public static final int image=0x7f090023;
+        public static final int imageView=0x7f090045;
+        public static final int listLecturesView=0x7f09003f;
         public static final int listMode=0x7f090009;
         public static final int list_item=0x7f090025;
         public static final int middle=0x7f090015;
@@ -1354,6 +1360,8 @@ containing a value of this type.
         public static final int progress_circular=0x7f090005;
         public static final int progress_horizontal=0x7f090006;
         public static final int radio=0x7f09002b;
+        public static final int scrollView=0x7f090042;
+        public static final int scrollView2=0x7f090049;
         public static final int search_badge=0x7f090035;
         public static final int search_bar=0x7f090034;
         public static final int search_button=0x7f090036;
@@ -1371,9 +1379,14 @@ containing a value of this type.
         public static final int split_action_bar=0x7f090007;
         public static final int submit_area=0x7f09003c;
         public static final int tabMode=0x7f09000b;
+        public static final int textView=0x7f090043;
+        public static final int textView2=0x7f090044;
+        public static final int textView3=0x7f09004a;
+        public static final int textView4=0x7f090047;
         public static final int title=0x7f090027;
         public static final int up=0x7f090008;
         public static final int useLogo=0x7f090012;
+        public static final int viewSwitcher=0x7f090048;
         public static final int withText=0x7f09001a;
         public static final int wrap_content=0x7f09001d;
     }
@@ -1405,11 +1418,16 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f040013;
         public static final int abc_search_view=0x7f040014;
         public static final int abc_simple_dropdown_hint=0x7f040015;
-        public static final int activity_login=0x7f040016;
-        public static final int support_simple_spinner_dropdown_item=0x7f040017;
+        public static final int activity_lectures=0x7f040016;
+        public static final int activity_login=0x7f040017;
+        public static final int activity_main=0x7f040018;
+        public static final int second_lectures=0x7f040019;
+        public static final int support_simple_spinner_dropdown_item=0x7f04001a;
     }
     public static final class menu {
-        public static final int menu_login=0x7f0d0000;
+        public static final int menu_lectures=0x7f0d0000;
+        public static final int menu_login=0x7f0d0001;
+        public static final int menu_main=0x7f0d0002;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -1434,6 +1452,8 @@ containing a value of this type.
         public static final int action_settings=0x7f0b0010;
         public static final int app_name=0x7f0b0011;
         public static final int hello_world=0x7f0b0012;
+        public static final int title_activity_lectures=0x7f0b0013;
+        public static final int title_activity_main=0x7f0b0014;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f0c0000;
