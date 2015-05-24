@@ -1,2 +1,0 @@
-# Sufara
-Sufara mobile application
